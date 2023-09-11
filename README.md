@@ -1,6 +1,6 @@
 # MADT-8101-Customer-Analytics
 
-#### Week 1 : Overview of Customer Analytics & Designing Customer Data Platform
+#### Workshop 1 : Overview of Customer Analytics & Designing Customer Data Platform
 #### Week 2 : Building Customer Single View & Basic Customer Analytics
 #### Week 3 : Customer Lifetime Value & Customer Scoring
 #### Week 4 : Churn Scoring & Campaign Response Scoring
