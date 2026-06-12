@@ -3,14 +3,17 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1soEu5T90lNPXTp8rstt0u7NyI0J2IWkX?usp=sharing)
 
-#### Sentiment Analysis Result
-![Sentiment Distribution](../data/sample/sentiment_dist.png)
+#### Sentiment Analysis Result (vs ground truth rating)
+![Sentiment Distribution](../data/sample/wongnai_sentiment.png)
 
-#### LDA Topic Modeling — WordCloud
-![LDA WordCloud](../data/sample/lda_wordcloud.png)
+#### LDA Topic Modeling — WordCloud (proper Thai tokenization with PyThaiNLP)
+![LDA WordCloud](../data/sample/wongnai_lda_wordcloud.png)
 
-#### 3D Topic Distribution (colored by rating)
-![LDA 3D](../data/sample/lda_3d.png)
+#### 3D Topic Distribution (colored by star rating)
+![LDA 3D](../data/sample/wongnai_lda_3d.png)
+
+#### Top 20 Most Frequent Words
+![Word Frequency](../data/sample/wongnai_wordfreq.png)
 
 ---
 

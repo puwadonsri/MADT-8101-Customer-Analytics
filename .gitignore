@@ -24,7 +24,15 @@ __pycache__/
 # ============================================
 data/raw/
 data/external/
-!data/sample/
+
+# Wongnai raw dataset (large files — download on demand)
+review_dataset.zip
+wongnai_data/
+notebooks/review_dataset.zip
+notebooks/wongnai_data/
+
+# Large sample CSVs
+data/sample/wongnai_sample.csv
 
 # ============================================
 # Virtual environments
