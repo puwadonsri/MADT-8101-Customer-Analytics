@@ -21,3 +21,7 @@
 ## Current VS New scoring
 ![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/bc8a2a80-c449-48ba-a4a9-ee976aee44a7)
 
+---
+
+📓 **[Open Notebook →](../notebooks/03_churn_scoring.ipynb)** | Churn Prediction (Random Forest) + Campaign Response Scoring
+

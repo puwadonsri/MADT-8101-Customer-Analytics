@@ -8,3 +8,7 @@
 ## Displays the classification results of the LDA model in a 3D graph.
 
 ![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/836f5119-aeb6-47f1-bede-a17394d9178d)
+
+---
+
+📓 **[Open Notebook →](../notebooks/05_voice_of_customer.ipynb)** | Sentiment Analysis + LDA Topic Modeling + 3D Visualization

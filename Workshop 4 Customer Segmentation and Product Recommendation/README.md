@@ -21,8 +21,12 @@
 ### 2. Segment Movement Analysis
 ![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/1d171aac-51e1-4fae-981e-a1e0cd2637b4)
 
-### 3. Product Recomendation
+### 3. Product Recommendation
 #### การเกาะกลุ่มของ Product
 ![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/82afcac2-245a-467e-930f-28469f6b66d5)
 #### การเกาะกลุ่มของ Product
 ![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/5b79652b-8d21-4e95-a564-8f3b6f09c0af)
+
+---
+
+📓 **[Open Notebook →](../notebooks/04_segmentation_recommendation.ipynb)** | K-Means Clustering + Association Rules (Market Basket)

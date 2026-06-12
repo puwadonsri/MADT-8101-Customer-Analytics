@@ -19,3 +19,7 @@
 #### :key:	Insight 3 Product Hierachy by Life Stage
 ###### Track to focus item by life's stage
 ![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/8f30c5cf-baa8-4329-ace6-f63488c9d880)
+
+---
+
+📓 **[Open Notebook →](../notebooks/02_clv_scoring.ipynb)** | RFM Analysis + CLV Calculation + Customer Scoring
