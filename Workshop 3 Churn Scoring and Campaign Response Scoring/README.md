@@ -1,10 +1,8 @@
 ## Churn Scoring and Campaign Response Scoring
-![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/a8da2824-dd4b-4f62-9721-ebc8b6e02868)
 
 #### :shopping: CURRENTLY FOCUS BEAUTY PASS TIER ON SPEND PER 12 MONTH ONLY
-![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/3ec1a164-4370-46f4-8963-cdc92edcba88)
 
-#### :shopping: Current Scoring 
+#### :shopping: Current Scoring
 ## CV = Purchase value
 
 #### :shopping: New scoring
@@ -18,10 +16,15 @@
 #### > :basket: Buy exclusive product 20%
 #### > :basket: Training base on product 20%
 
-## Current VS New scoring
-![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/bc8a2a80-c449-48ba-a4a9-ee976aee44a7)
+#### CHURN MODEL — ROC Curve
+![ROC Curve](../data/sample/churn_roc.png)
+
+#### Feature Importance
+![Feature Importance](../data/sample/churn_feature_importance.png)
+
+#### Campaign Priority Scoring
+![Campaign Priority](../data/sample/campaign_priority.png)
 
 ---
 
 📓 **[Open Notebook →](../notebooks/03_churn_scoring.ipynb)** | Churn Prediction (Random Forest) + Campaign Response Scoring
-

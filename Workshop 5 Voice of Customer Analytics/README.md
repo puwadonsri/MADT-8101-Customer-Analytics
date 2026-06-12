@@ -3,11 +3,14 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1soEu5T90lNPXTp8rstt0u7NyI0J2IWkX?usp=sharing)
 
-![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/e0d9cdf9-f38f-4a7a-b7af-dcacff38b8ea)
+#### Sentiment Analysis Result
+![Sentiment Distribution](../data/sample/sentiment_dist.png)
 
-## Displays the classification results of the LDA model in a 3D graph.
+#### LDA Topic Modeling — WordCloud
+![LDA WordCloud](../data/sample/lda_wordcloud.png)
 
-![image](https://github.com/puwadonsri/MADT-8101-Customer-Analytics/assets/114323892/836f5119-aeb6-47f1-bede-a17394d9178d)
+#### 3D Topic Distribution (colored by rating)
+![LDA 3D](../data/sample/lda_3d.png)
 
 ---
 
